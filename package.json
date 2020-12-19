@@ -12,7 +12,7 @@
     "load-grunt-config": "^0.19.2",
     "lodash": "^3.0.0",
     "mongodb": "^2.2.34",
-    "mongojs": "2.4.0",
+    "mongojs": "2.6.0",
     "redis": "^2.6.2",
     "rimraf": "~2.2.6",
     "settings-sharelatex": "git+https://github.com/sharelatex/settings-sharelatex.git",
